@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo5" />
+      <option name="name" value="repo5" />
+      <option name="url" value="http://192.168.10.30:8081/repository/maven-snapshots/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo7" />
+      <option name="name" value="repo7" />
+      <option name="url" value="http://repo.hortonworks.com/content/repositories/releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo4" />
+      <option name="name" value="repo4" />
+      <option name="url" value="http://mvn.senses-ai.com:8081/repository/maven-releases/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo2" />
+      <option name="name" value="repo2" />
+      <option name="url" value="http://nexus.senses-ai.com/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo6" />
+      <option name="name" value="repo6" />
+      <option name="url" value="http://mvn.senses-ai.com:8081/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo11" />
+      <option name="name" value="repo11" />
+      <option name="url" value="https://maven.aliyun.com/repository/spring" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo1" />
+      <option name="name" value="repo1" />
+      <option name="url" value="https://maven.aliyun.com/repository/public" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="repo3" />
+      <option name="name" value="repo3" />
+      <option name="url" value="http://nexus.senses-ai.com/repository/maven-snapshots/" />
+    </remote-repository>
+  </component>
+</project>
